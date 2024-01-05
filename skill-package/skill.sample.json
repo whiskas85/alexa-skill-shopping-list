@@ -11,6 +11,16 @@
           ],
           "name": "Meine Einkaufsliste",
           "description": "Custom shopping list"
+        },
+        "it-DE": {
+          "summary": "La mia lista della spesa",
+          "examplePhrases": [
+            "Alexa apri la mia lista della spesa",
+            "Ciao",
+            "Aiuto"
+          ],
+          "name": "La mia lista della spesa",
+          "description": "Custom shopping list"
         }
       },
       "isAvailableWorldwide": true,

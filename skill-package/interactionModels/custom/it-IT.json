@@ -1,0 +1,66 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "La mia lista della spesa",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "AddItemIntent",
+          "slots": [
+            {
+              "name": "item",
+              "type": "AMAZON.Food"
+            }
+          ],
+          "samples": [
+            "{item}",
+            "Aggiungi {item}",
+            "Aggiungi {item} all'elenco",
+            "Aggiungi {item} alla lista",
+            "Aggiungi {item} nella mia lista della spesa",
+            "Aggiungi {item} alla mia lista della spesa"
+          ]
+        },
+        {
+          "name": "ListItemsIntent",
+          "samples": [
+            "Cosa c'è sulla lista?",
+            "Cosa c'è sulla lista della spesa?",
+            "Cosa c'è sulla mia lista?",
+            "Cosa c'è sulla mia lista della spesa?"
+          ]
+        },
+        {
+          "name": "ClearCompletedItemsIntent",
+          "samples": [
+            "elimina gli elementi completati",
+            "elimina tutti quelli completati",
+            "ripulisci la lista",
+            "pulisci la lista"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  }
+}
+  

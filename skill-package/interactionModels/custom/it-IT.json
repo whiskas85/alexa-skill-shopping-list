@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "La mia lista della spesa",
+      "invocationName": "la mia lista della spesa",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",

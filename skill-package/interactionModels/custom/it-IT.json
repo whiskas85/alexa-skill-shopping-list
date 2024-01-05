@@ -39,10 +39,10 @@
         {
           "name": "ListItemsIntent",
           "samples": [
-            "Cosa c'è sulla lista?",
-            "Cosa c'è sulla lista della spesa?",
-            "Cosa c'è sulla mia lista?",
-            "Cosa c'è sulla mia lista della spesa?"
+            "Cosa c'è sulla lista",
+            "Cosa c'è sulla lista della spesa",
+            "Cosa c'è sulla mia lista",
+            "Cosa c'è sulla mia lista della spesa"
           ]
         },
         {

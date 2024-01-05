@@ -29,20 +29,20 @@
           ],
           "samples": [
             "{item}",
-            "Aggiungi {item}",
-            "Aggiungi {item} all'elenco",
-            "Aggiungi {item} alla lista",
-            "Aggiungi {item} nella mia lista della spesa",
-            "Aggiungi {item} alla mia lista della spesa"
+            "aggiungi {item}",
+            "aggiungi {item} all'elenco",
+            "aggiungi {item} alla lista",
+            "aggiungi {item} nella mia lista della spesa",
+            "aggiungi {item} alla mia lista della spesa"
           ]
         },
         {
           "name": "ListItemsIntent",
           "samples": [
-            "Cosa c'è sulla lista",
-            "Cosa c'è sulla lista della spesa",
-            "Cosa c'è sulla mia lista",
-            "Cosa c'è sulla mia lista della spesa"
+            "cosa c'è sulla lista",
+            "cosa c'è sulla lista della spesa",
+            "cosa c'è sulla mia lista",
+            "cosa c'è sulla mia lista della spesa"
           ]
         },
         {

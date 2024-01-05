@@ -16,8 +16,8 @@
           "summary": "La mia lista della spesa",
           "examplePhrases": [
             "Alexa apri la mia lista della spesa",
-            "Ciao",
-            "Aiuto"
+            "ciao",
+            "aiuto"
           ],
           "name": "La mia lista della spesa",
           "description": "Custom shopping list"
